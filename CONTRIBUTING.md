@@ -7,7 +7,7 @@ We want to make contributing to this project as easy and as transparent as possi
 
 - Reporting a bug :bug:
 
-- Submitting a fix :mag_right:
+- Submitting all fix :mag_right:
 
 - Proposing new features :bulb:
 
